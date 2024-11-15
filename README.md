@@ -77,7 +77,7 @@
 
  13. Создана отдельная ветка для оформления отчёта:
   ```bash
-  git checkout -b statements
+  git checkout -b statement
   ```
 
  14. Отчёт оформлен в файле `README.md` с использованием markdown синтаксиса, cкриншоты консоли добавлены в отдельную папку `screenshots`.
@@ -90,7 +90,7 @@
 
  16. Локальные изменения отправлены в удалённый репозиторий на GitHub:
   ```bash
-  git push origin statements
+  git push origin statement
   ```
 
 Вывод:
