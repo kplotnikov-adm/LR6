@@ -73,7 +73,7 @@
   git revert 1bb1724
   ```
 ![screenshots](screenshots/4.png)
-![screenshots](screenshots/6.png)
+![screenshots](screenshots/6.jpg)
 
  13. Создана отдельная ветка для оформления отчёта:
   ```bash
